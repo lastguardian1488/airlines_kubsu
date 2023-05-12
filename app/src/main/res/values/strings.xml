@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Airlines</string>
+
+    <string name="new_airline">Добавить авиакомпанию</string>
+    <string name="new_city">Добавить город</string>
+    <string name="new_flight">Добавить рейс</string>
+    <string name="edit_flight">Изменить рейс</string>
+    <string name="delete_flight">Удалить рейс</string>
+
+    <string name="ok">ОК</string>
+    <string name="cansel">отмена</string>
+    <string name="commit">подтвердить</string>
+
+    <string name="hint_enter_airline_name">Название</string>
+    <string name="hint_enter_airline_year">Год создания</string>
+    <string name="hint_enter_city">Название</string>
+
+    <string name="list_city">Список городов</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
